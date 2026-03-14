@@ -1,5 +1,3 @@
-Para completar el set de tu organización IDM-MICROSERVICES, aquí tienes el README.md para el Customer Service. He mantenido el formato limpio, con los bloques de código bien cerrados y la estructura de la tabla SQL que tanto te sirve para documentar el proyecto.
-
 **Customer Service 👥**
 Este microservicio se encarga de la gestión integral de los datos maestros de clientes. Es la fuente de verdad para la información personal que consumen otros servicios como el de Cuentas (Account Service).
 
